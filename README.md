@@ -69,19 +69,6 @@ Make sure you have Python installed (>=3.7).
 
 ---
 
-## Troubleshooting
-
-- If you encounter any issues:
-  - Ensure your dataset follows the expected format.
-  - Check that the required libraries are installed (`pandas`, `scikit-learn`, `numpy`).
-  - Suppress any warnings by adding the following at the top of the `classifier.py`:
-    ```python
-    import warnings
-    warnings.filterwarnings("ignore")
-    ```
-
----
-
 ## Contact
 
 If you have any questions or issues, feel free to contact amujral@ucsd.edu.
